@@ -1,0 +1,32 @@
+
+Scholarship:
+    - ShanghaiGovt
+    - BeijingGovt
+    - CSC
+    - School
+    - Province
+    - LikeCSC
+
+DeadLine:
+    - ShanghaiGovt:
+        - ShanghaiGovt_1
+        - ShanghaiGovt_2
+    - BeijingGovt
+    - CSC
+    - School
+    - Province
+    - LikeCSC
+
+major:
+    - dataScience
+    - software
+    - computerScienceTechnology
+
+applicationStatus:
+    - draft
+    - submitted
+    - interviewScheduled
+    - preAdmission
+    - rejected
+    - waitListed
+    - finalAccepted

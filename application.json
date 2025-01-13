@@ -1,0 +1,47 @@
+{
+  "school": [
+    {
+      "id": "0",
+      "location": "",
+      "university": "",
+      "rank": 0,
+      "scholarshipAvailabe": ["", "", ""],
+      "deadLine": {
+        "shanghaiGovt_1": "",
+        "shanghaiGovt_2": "",
+        "CSC": "",
+        "school": ""
+      },
+      "major": ["dataScience", "computerScienceTechnology"],
+
+      "professor": [
+        {
+          "professorID": "0",
+          "name": "",
+          "email": "",
+          "profile": "",
+          "response": "",
+          "responseDate": "",
+          "accepted": false
+        },
+        {
+          "professorID": "0",
+          "name": "",
+          "email": "",
+          "profile": "",
+          "response": "",
+          "responseDate": "",
+          "accepted": false
+        }
+      ],
+
+      "status": [
+        {
+          "applicationStatus": "Draft",
+          "decisionDeadline": "",
+          "remarks": ""
+        }
+      ]
+    }
+  ]
+}
