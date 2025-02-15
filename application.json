@@ -1,11 +1,16 @@
 {
+  "links": {
+    "ranking": "https://www.shanghairanking.com/rankings/bcur/2024",
+    "shanghai_govt": "https://english.shanghai.gov.cn/en-ApplyforScholarships/20241224/b3cd33c7ff684756a3ca5053b433d0b6.html"
+  },
   "school": [
     {
       "id": "0",
       "location": "",
+      "Link": "",
       "university": "",
       "rank": 0,
-      "scholarshipAvailabe": ["", "", ""],
+      "scholarshipAvailabe": ["SGS", "", ""],
       "deadLine": {
         "shanghaiGovt_1": "",
         "shanghaiGovt_2": "",
@@ -13,12 +18,13 @@
         "school": ""
       },
       "major": ["dataScience", "computerScienceTechnology"],
-
+      "hasSupervisonLater": true,
       "professor": [
         {
           "professorID": "0",
           "name": "",
           "email": "",
+          "researchInterest": "",
           "profile": "",
           "response": "",
           "responseDate": "",
@@ -28,6 +34,421 @@
           "professorID": "0",
           "name": "",
           "email": "",
+          "researchInterest": "",
+          "profile": "",
+          "response": "",
+          "responseDate": "",
+          "accepted": false
+        }
+      ],
+
+      "status": [
+        {
+          "applicationStatus": "Draft",
+          "decisionDeadline": "",
+          "remarks": ""
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "location": "Shanghai",
+      "Link": "https://english.dhu.edu.cn/2021/0823/c5219a285015/page.psp",
+      "university": "Donghua University",
+      "rank": 0,
+      "scholarshipAvailabe": ["", "", ""],
+      "deadLine": {
+        "shanghaiGovt_1": " April 15, 2025",
+        "CSC": "",
+        "school": ""
+      },
+      "major": ["", ""],
+      "hasSupervisonLater": true,
+      "professor": [
+        {
+          "professorID": "0",
+          "name": "",
+          "email": "",
+          "researchInterest": "",
+          "profile": "",
+          "response": "",
+          "responseDate": "",
+          "accepted": false
+        },
+        {
+          "professorID": "0",
+          "name": "",
+          "email": "",
+          "researchInterest": "",
+          "profile": "",
+          "response": "",
+          "responseDate": "",
+          "accepted": false
+        }
+      ],
+
+      "status": [
+        {
+          "applicationStatus": "Draft",
+          "decisionDeadline": "",
+          "remarks": ""
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "location": "Shanghai",
+      "Link": "http://lxs.ecnu.edu.cn/en/admission/degree-programs/graduate-program",
+      "university": "East China Normal University",
+      "rank": 0,
+      "scholarshipAvailabe": ["", "", ""],
+      "deadLine": {
+        "shanghaiGovt_1": "March 1st, 2025",
+        "shanghaiGovt_2": "May 15th, 2025",
+        "CSC": ["March 1st, 2025", "May 15th, 2025"],
+        "school": ""
+      },
+
+      "major": ["computerScienceTechnology"],
+      "hasSupervisonLater": true,
+      "professor": [
+        {
+          "professorID": "0",
+          "name": "",
+          "email": "",
+          "researchInterest": "",
+          "profile": "",
+          "response": "",
+          "responseDate": "",
+          "accepted": false
+        },
+        {
+          "professorID": "0",
+          "name": "",
+          "email": "",
+          "researchInterest": "",
+          "profile": "",
+          "response": "",
+          "responseDate": "",
+          "accepted": false
+        }
+      ],
+
+      "status": [
+        {
+          "applicationStatus": "Draft",
+          "decisionDeadline": "",
+          "remarks": ""
+        }
+      ]
+    },
+    {
+        "id": "3",
+        "location": "Shanghai",
+        "Link": "https://study.tongji.edu.cn/info/1088/2632.htm",
+        "university": "",
+        "rank": 0,
+        "scholarshipAvailabe": ["", "", ""],
+        "deadLine": {
+          "shanghaiGovt_1": " April 20, 2025",
+
+          "school": ""
+        },
+        "major": ["dataScience", "computerScienceTechnology"],
+        "hasSupervisonLater": ,
+        "professor": [
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          },
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          }
+        ],
+  
+        "status": [
+          {
+            "applicationStatus": "Draft",
+            "decisionDeadline": "",
+            "remarks": ""
+          }
+        ]
+    },
+    {
+        "id": "4",
+        "location": "shanghai",
+        "Link": "https://ies.ecust.edu.cn/en/msg.php?id=74",
+        "university": "East China University of Science and Technology",
+        "rank": 0,
+        "scholarshipAvailabe": ["", "", ""],
+        "deadLine": {
+          "shanghaiGovt_1": "Feb 28th,  2025",
+          "CSC": "Feb 28th,  2025",
+          "school": ""
+        },
+        "major": ["dataScience", "computerScienceTechnology"],
+        "hasSupervisonLater": true,
+        "professor": [
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          },
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          }
+        ],
+  
+        "status": [
+          {
+            "applicationStatus": "Draft",
+            "decisionDeadline": "",
+            "remarks": ""
+          }
+        ]
+    },
+    {
+        "id": "5",
+        "location": "Shanghai",
+        "Link": "https://intlstu.sufe.edu.cn/main.htm",
+        "university": "Shanghai University of Finance and Economics",
+        "rank": 0,
+        "scholarshipAvailabe": ["", "", ""],
+        "deadLine": {
+          "shanghaiGovt_1": "",
+          "shanghaiGovt_2": "",
+          "CSC": "28 February 2025, First select then apply CSC", 
+          "school": ""
+        },
+        "major": [ "computerScienceTechnology"],
+        "hasSupervisonLater": true,
+        "professor": [
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          },
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          }
+        ],
+  
+        "status": [
+          {
+            "applicationStatus": "Draft",
+            "decisionDeadline": "",
+            "remarks": ""
+          }
+        ]
+    },
+    {
+        "id": "6",
+        "location": "shanghai",
+        "Link": "https://www.oisa.shisu.edu.cn/index.php/en/index/lxxm/cid/132.html",
+        "university": "Shanghai International Studies University",
+        "rank": 0,
+        "scholarshipAvailabe": ["Language Data Science and Applications", "", ""],
+        "deadLine": {
+          "shanghaiGovt_1": "March 31, 2025",
+          "shanghaiGovt_2": "",
+          "CSC": "",
+          "school": ""
+        },
+        "major": ["computerScienceTechnology"],
+        "hasSupervisonLater": false,
+        "professor": [
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          },
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          }
+        ],
+  
+        "status": [
+          {
+            "applicationStatus": "Draft",
+            "decisionDeadline": "",
+            "remarks": ""
+          }
+        ]
+    },
+    {
+        "id": "0",
+        "location": "shanghai",
+        "Link": "https://apply.shu.edu.cn/application/scholarships",
+        "university": "Shanghai University",
+        "rank": 0,
+        "scholarshipAvailabe": ["", "", ""],
+        "deadLine": {
+          "shanghaiGovt_1": "May 15",
+          "shanghaiGovt_2": "",
+          "CSC": "",
+          "school": ""
+        },
+        "major": ["computerScienceTechnology"],
+        "hasSupervisonLater": false,
+        "professor": [
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          },
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          }
+        ],
+  
+        "status": [
+          {
+            "applicationStatus": "Draft",
+            "decisionDeadline": "",
+            "remarks": ""
+          }
+        ]
+    },
+    {
+        "id": "7",
+        "location": "shanghai",
+        "Link": "",
+        "university": "",
+        "rank": 0,
+        "scholarshipAvailabe": ["", "", ""],
+        "deadLine": {
+          "shanghaiGovt_1": "",
+          "shanghaiGovt_2": "",
+          "CSC": "",
+          "CSCSilkRood": "",
+          "school": ""
+        },
+        "major": ["computerScienceTechnology"],
+        "hasSupervisonLater": false,
+        "professor": [
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          },
+          {
+            "professorID": "0",
+            "name": "",
+            "email": "",
+            "researchInterest": "",
+            "profile": "",
+            "response": "",
+            "responseDate": "",
+            "accepted": false
+          }
+        ],
+  
+        "status": [
+          {
+            "applicationStatus": "Draft",
+            "decisionDeadline": "",
+            "remarks": ""
+          }
+        ]
+    },
+    {
+      "id": "0",
+      "location": "",
+      "Link": "",
+      "university": "",
+      "rank": 0,
+      "scholarshipAvailabe": ["", "", ""],
+      "deadLine": {
+        "shanghaiGovt_1": "",
+        "shanghaiGovt_2": "",
+        "CSC": "",
+        "CSCSilkRood": "",
+        "school": ""
+      },
+      "major": ["computerScienceTechnology"],
+      "hasSupervisonLater": false,
+      "professor": [
+        {
+          "professorID": "0",
+          "name": "",
+          "email": "",
+          "researchInterest": "",
+          "profile": "",
+          "response": "",
+          "responseDate": "",
+          "accepted": false
+        },
+        {
+          "professorID": "0",
+          "name": "",
+          "email": "",
+          "researchInterest": "",
           "profile": "",
           "response": "",
           "responseDate": "",
